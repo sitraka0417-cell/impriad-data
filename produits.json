@@ -1,0 +1,1063 @@
+{
+ "version": 1,
+ "updatedAt": "2026-11-07T00:00:00Z",
+ "source": "https://impriad.mg/produits/",
+ "categories": [
+  {
+   "id": "lesona-malagasy",
+   "label": "Lesona Malagasy",
+   "count": 15
+  },
+  {
+   "id": "fandalinana",
+   "label": "Fandalinana",
+   "count": 8
+  },
+  {
+   "id": "teny-frantsay",
+   "label": "Teny Frantsay",
+   "count": 10
+  },
+  {
+   "id": "moniteur-frantsay",
+   "label": "Moniteur Frantsay",
+   "count": 6
+  },
+  {
+   "id": "teny-anglisy",
+   "label": "Teny Anglisy",
+   "count": 10
+  },
+  {
+   "id": "moniteur-anglisy",
+   "label": "Moniteur Anglisy",
+   "count": 8
+  },
+  {
+   "id": "fiambenana",
+   "label": "Fiambenana Maraina",
+   "count": 2
+  },
+  {
+   "id": "hira",
+   "label": "Fihirana",
+   "count": 2
+  },
+  {
+   "id": "baiboly",
+   "label": "Baiboly",
+   "count": 7
+  },
+  {
+   "id": "boky",
+   "label": "Boky",
+   "count": 46
+  },
+  {
+   "id": "tatitra-sary",
+   "label": "Tatitra / Fitaovana Hafa",
+   "count": 16
+  },
+  {
+   "id": "zavatra-hafa",
+   "label": "Cartes/Boky Madinika",
+   "count": 12
+  }
+ ],
+ "products": [
+  {
+   "id": "lehibe-gm",
+   "name": "LEHIBE GM",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 3300
+  },
+  {
+   "id": "lehibe-pm",
+   "name": "LEHIBE PM",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 2700
+  },
+  {
+   "id": "tanora-zokiny-19-35taona",
+   "name": "TANORA ZOKINY (19-35taona)",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 3300
+  },
+  {
+   "id": "zatovo-15-18taona",
+   "name": "ZATOVO (15-18taona)",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 3300
+  },
+  {
+   "id": "tanora-mantoanto-13-14taona",
+   "name": "TANORA MANTOANTO (13-14taona)",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 3300
+  },
+  {
+   "id": "tanora-zandriny-10-12taona",
+   "name": "TANORA ZANDRINY (10-12taona)",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 3300
+  },
+  {
+   "id": "ankizy-7-9taona",
+   "name": "ANKIZY (7-9taona)",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 3300
+  },
+  {
+   "id": "kilonga-4-6taona",
+   "name": "KILONGA (4-6taona)",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 3300
+  },
+  {
+   "id": "zazakely-1-3taona",
+   "name": "ZAZAKELY (1-3taona)",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 3300
+  },
+  {
+   "id": "zaza-minono-0-12-volana-isan-taona",
+   "name": "ZAZA MINONO (0-12 volana) isan-taona",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 6500
+  },
+  {
+   "id": "30-mn-ray-aman-dreny-zaza-minono-isan-telovolana",
+   "name": "30 mn RAY AMAN-DRENY (Zaza minono isan-telovolana)",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 3300
+  },
+  {
+   "id": "lesona-mitambatra-gm",
+   "name": "LESONA MITAMBATRA GM",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 6500
+  },
+  {
+   "id": "lesona-mitambatra-pm",
+   "name": "LESONA MITAMBATRA PM",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 5300
+  },
+  {
+   "id": "manao-dingana-1",
+   "name": "MANAO DINGANA 1",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 3300
+  },
+  {
+   "id": "manao-dingana-2",
+   "name": "MANAO DINGANA 2",
+   "category": "lesona-malagasy",
+   "language": "mg",
+   "price": 3300
+  },
+  {
+   "id": "lehibe",
+   "name": "LEHIBE",
+   "category": "fandalinana",
+   "language": "mg",
+   "price": 3300
+  },
+  {
+   "id": "zatovo",
+   "name": "ZATOVO",
+   "category": "fandalinana",
+   "language": "mg",
+   "price": 2700
+  },
+  {
+   "id": "mantoanto",
+   "name": "MANTOANTO",
+   "category": "fandalinana",
+   "language": "mg",
+   "price": 2700
+  },
+  {
+   "id": "tanora",
+   "name": "TANORA",
+   "category": "fandalinana",
+   "language": "mg",
+   "price": 2700
+  },
+  {
+   "id": "ankizy-stimulant",
+   "name": "ANKIZY + STIMULANT",
+   "category": "fandalinana",
+   "language": "mg",
+   "price": 3700
+  },
+  {
+   "id": "kilonga-stimulant",
+   "name": "KILONGA + STIMULANT",
+   "category": "fandalinana",
+   "language": "mg",
+   "price": 3700
+  },
+  {
+   "id": "zazakely-stimulant",
+   "name": "ZAZAKELY + STIMULANT",
+   "category": "fandalinana",
+   "language": "mg",
+   "price": 3700
+  },
+  {
+   "id": "zaza-minono-isan-taona",
+   "name": "ZAZA MINONO isan-taona",
+   "category": "fandalinana",
+   "language": "mg",
+   "price": 3700
+  },
+  {
+   "id": "lesona-lehibe-fran-ais",
+   "name": "LESONA LEHIBE Français",
+   "category": "teny-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "tanora-zokiny-fran-ais",
+   "name": "TANORA ZOKINY Français",
+   "category": "teny-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "connexion-15-18ans",
+   "name": "CONNEXION (15-18ans)",
+   "category": "teny-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "adolescent-13-14ans",
+   "name": "ADOLESCENT (13-14ans)",
+   "category": "teny-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "pre-adolescent-10-12ans",
+   "name": "PRE-ADOLESCENT (10-12ans)",
+   "category": "teny-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "primaire-7-9ans",
+   "name": "PRIMAIRE (7-9ans)",
+   "category": "teny-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "jardin-denfant-4-6ans",
+   "name": "JARDIN D'ENFANT (4-6ans)",
+   "category": "teny-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "debutant-1-3ans",
+   "name": "DEBUTANT (1-3ans)",
+   "category": "teny-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "le-on-bebe-0-12mois",
+   "name": "Leçon BEBE 0-12mois",
+   "category": "teny-frantsay",
+   "language": "fr",
+   "price": 10000
+  },
+  {
+   "id": "30-mn-parents-bebe-0-12mois",
+   "name": "30 mn PARENTS BEBE (0-12mois)",
+   "category": "teny-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "moniteur-adulte",
+   "name": "MONITEUR ADULTE",
+   "category": "moniteur-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "moniteur-connexion",
+   "name": "MONITEUR CONNEXION",
+   "category": "moniteur-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "moniteur-adolescent",
+   "name": "MONITEUR ADOLESCENT",
+   "category": "moniteur-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "moniteur-pre-adolescent",
+   "name": "MONITEUR PRE-ADOLESCENT",
+   "category": "moniteur-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "moniteur-debutant-1-3",
+   "name": "MONITEUR DEBUTANT (1-3)",
+   "category": "moniteur-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "moniteur-bebes",
+   "name": "MONITEUR BEBES",
+   "category": "moniteur-frantsay",
+   "language": "fr",
+   "price": 6000
+  },
+  {
+   "id": "standard-edition",
+   "name": "STANDARD EDITION",
+   "category": "teny-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "inverse-19-35years",
+   "name": "INVERSE (19-35years)",
+   "category": "teny-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "cornerstone-15-18years",
+   "name": "CORNERSTONE (15-18years)",
+   "category": "teny-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "real-time-faith-13-14years",
+   "name": "REAL TIME FAITH (13-14years)",
+   "category": "teny-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "powerpoint-10-12years",
+   "name": "POWERPOINT (10-12years)",
+   "category": "teny-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "primary-7-9years",
+   "name": "PRIMARY (7-9years)",
+   "category": "teny-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "kindergarten-4-6years",
+   "name": "KINDERGARTEN (4-6years)",
+   "category": "teny-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "beginner-1-3years",
+   "name": "BEGINNER (1-3years)",
+   "category": "teny-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "babies-0-12months",
+   "name": "BABIES (0-12months)",
+   "category": "teny-anglisy",
+   "language": "en",
+   "price": 10000
+  },
+  {
+   "id": "30-mn-parents-babies-0-12months",
+   "name": "30 mn PARENTS BABIES (0-12months)",
+   "category": "teny-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "teachers-edition",
+   "name": "TEACHERS EDITION",
+   "category": "moniteur-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "moniteur-cornerstone",
+   "name": "MONITEUR CORNERSTONE",
+   "category": "moniteur-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "moniteur-real-time-faith",
+   "name": "MONITEUR REAL TIME FAITH",
+   "category": "moniteur-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "moniteur-powerpoints",
+   "name": "MONITEUR POWERPOINTS",
+   "category": "moniteur-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "moniteur-beginner",
+   "name": "MONITEUR BEGINNER",
+   "category": "moniteur-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "moniteur-babies",
+   "name": "MONITEUR BABIES",
+   "category": "moniteur-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "moniteur-primary",
+   "name": "MONITEUR PRIMARY",
+   "category": "moniteur-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "moniteur-kindergarten",
+   "name": "MONITEUR KINDERGARTEN",
+   "category": "moniteur-anglisy",
+   "language": "en",
+   "price": 6000
+  },
+  {
+   "id": "mofonaina-gm",
+   "name": "MOFONAINA GM",
+   "category": "fiambenana",
+   "language": "mg",
+   "price": 3300
+  },
+  {
+   "id": "mofonaina-pm",
+   "name": "MOFONAINA PM",
+   "category": "fiambenana",
+   "language": "mg",
+   "price": 2700
+  },
+  {
+   "id": "tiona-advantista",
+   "name": "TIONA ADVANTISTA",
+   "category": "hira",
+   "language": "mg",
+   "price": 45000
+  },
+  {
+   "id": "fihirana-kely",
+   "name": "FIHIRANA KELY",
+   "category": "hira",
+   "language": "mg",
+   "price": 9000
+  },
+  {
+   "id": "baiboly-tsotra",
+   "name": "BAIBOLY TSOTRA",
+   "category": "baiboly",
+   "language": "mg",
+   "price": 22000
+  },
+  {
+   "id": "baiboly-fanao-am-paosy",
+   "name": "BAIBOLY FANAO AM-PAOSY",
+   "category": "baiboly",
+   "language": "mg",
+   "price": 25000
+  },
+  {
+   "id": "baiboly-mena-vava-ref",
+   "name": "BAIBOLY MENA VAVA + Ref",
+   "category": "baiboly",
+   "language": "mg",
+   "price": 40000
+  },
+  {
+   "id": "baiboly-tsotra-vava-volamena",
+   "name": "BAIBOLY TSOTRA VAVA VOLAMENA",
+   "category": "baiboly",
+   "language": "mg",
+   "price": 50000
+  },
+  {
+   "id": "baiboly-vava-volamena-onglet",
+   "name": "BAIBOLY VAVA VOLAMENA + Onglet",
+   "category": "baiboly",
+   "language": "mg",
+   "price": 75000
+  },
+  {
+   "id": "baiboly-vava-volamena-onglet-ref",
+   "name": "BAIBOLY VAVA VOLAMENA + Onglet + Ref",
+   "category": "baiboly",
+   "language": "mg",
+   "price": 90000
+  },
+  {
+   "id": "saisissez-la-vie",
+   "name": "SAISISSEZ LA VIE",
+   "category": "baiboly",
+   "language": "mg",
+   "price": 10000
+  },
+  {
+   "id": "pack-explorateur",
+   "name": "PACK EXPLORATEUR",
+   "category": "boky",
+   "language": "mg",
+   "price": 40000
+  },
+  {
+   "id": "boky-ja-mpanazava",
+   "name": "BOKY JA MPANAZAVA",
+   "category": "boky",
+   "language": "mg",
+   "price": 6000
+  },
+  {
+   "id": "boky-ja-namana",
+   "name": "BOKY JA NAMANA",
+   "category": "boky",
+   "language": "mg",
+   "price": 6000
+  },
+  {
+   "id": "boky-ja-sakaiza",
+   "name": "BOKY JA SAKAIZA",
+   "category": "boky",
+   "language": "mg",
+   "price": 6000
+  },
+  {
+   "id": "boky-ja-mpamaky-lay",
+   "name": "BOKY JA MPAMAKY LAY",
+   "category": "boky",
+   "language": "mg",
+   "price": 6000
+  },
+  {
+   "id": "boky-ja-mpitarika",
+   "name": "BOKY JA MPITARIKA",
+   "category": "boky",
+   "language": "mg",
+   "price": 6000
+  },
+  {
+   "id": "boky-ja-mpandeha-alavitra",
+   "name": "BOKY JA MPANDEHA ALAVITRA",
+   "category": "boky",
+   "language": "mg",
+   "price": 6000
+  },
+  {
+   "id": "boky-ja-ilay-lalan-tsambatra",
+   "name": "BOKY JA ILAY LALAN-TSAMBATRA",
+   "category": "boky",
+   "language": "mg",
+   "price": 6000
+  },
+  {
+   "id": "fahaiza-mitarika-ambasadaoro",
+   "name": "FAHAIZA-MITARIKA AMBASADAORO",
+   "category": "boky",
+   "language": "mg",
+   "price": 4100
+  },
+  {
+   "id": "lovanny-fiangonana",
+   "name": "LOVAN'NY FIANGONANA",
+   "category": "boky",
+   "language": "mg",
+   "price": 5000
+  },
+  {
+   "id": "foto-pinoana-28",
+   "name": "FOTO-PINOANA 28",
+   "category": "boky",
+   "language": "mg",
+   "price": 1000
+  },
+  {
+   "id": "salama-aho",
+   "name": "SALAMA AHO",
+   "category": "boky",
+   "language": "mg",
+   "price": 10000
+  },
+  {
+   "id": "mivavaka-aho",
+   "name": "MIVAVAKA AHO",
+   "category": "boky",
+   "language": "mg",
+   "price": 10000
+  },
+  {
+   "id": "tsara-toetra-aho",
+   "name": "TSARA TOETRA AHO",
+   "category": "boky",
+   "language": "mg",
+   "price": 10000
+  },
+  {
+   "id": "masoandro-mody",
+   "name": "MASOANDRO MODY",
+   "category": "boky",
+   "language": "mg",
+   "price": 10000
+  },
+  {
+   "id": "fitiavana-mandrakizay-2",
+   "name": "FITIAVANA MANDRAKIZAY 2",
+   "category": "boky",
+   "language": "mg",
+   "price": 10000
+  },
+  {
+   "id": "ny-dia-ho-eo-amini-kristy-ho-anny-ankizy",
+   "name": "NY DIA HO EO AMIN'I KRISTY HO AN'NY ANKIZY",
+   "category": "boky",
+   "language": "mg",
+   "price": 8000
+  },
+  {
+   "id": "hery-mifanandrina-ho-anny-ankizy",
+   "name": "HERY MIFANANDRINA HO AN'NY ANKIZY",
+   "category": "boky",
+   "language": "mg",
+   "price": 5000
+  },
+  {
+   "id": "fanantenana-100",
+   "name": "FANANTENANA 100",
+   "category": "boky",
+   "language": "mg",
+   "price": 3000
+  },
+  {
+   "id": "hevitra-100-fanabeazana-ny-zaza",
+   "name": "HEVITRA 100 FANABEAZANA NY ZAZA",
+   "category": "boky",
+   "language": "mg",
+   "price": 3000
+  },
+  {
+   "id": "mba-ho-ray-aman-dreny-tsara",
+   "name": "MBA HO RAY AMAN-DRENY TSARA",
+   "category": "boky",
+   "language": "mg",
+   "price": 1800
+  },
+  {
+   "id": "ny-tokantrano-sekoly",
+   "name": "NY TOKANTRANO SEKOLY",
+   "category": "boky",
+   "language": "mg",
+   "price": 1800
+  },
+  {
+   "id": "fitandremana-ny-sabata",
+   "name": "FITANDREMANA NY SABATA",
+   "category": "boky",
+   "language": "mg",
+   "price": 3000
+  },
+  {
+   "id": "fitsaboana-aminny-alalanny-rano",
+   "name": "FITSABOANA AMIN'NY ALALAN'NY RANO",
+   "category": "boky",
+   "language": "mg",
+   "price": 2000
+  },
+  {
+   "id": "torohevitra-momba-ny-sakafo-sy-ny-zava-pihinana",
+   "name": "TOROHEVITRA MOMBA NY SAKAFO SY NY ZAVA-PIHINANA",
+   "category": "boky",
+   "language": "mg",
+   "price": 2000
+  },
+  {
+   "id": "fitiavana-madio",
+   "name": "FITIAVANA MADIO",
+   "category": "boky",
+   "language": "mg",
+   "price": 2300
+  },
+  {
+   "id": "tari-dalana-fanambadiana",
+   "name": "TARI-DALANA FANAMBADIANA",
+   "category": "boky",
+   "language": "mg",
+   "price": 10000
+  },
+  {
+   "id": "dvd-fitia-vol-3",
+   "name": "DVD - fit'IA - Vol 3",
+   "category": "boky",
+   "language": "mg",
+   "price": 5000
+  },
+  {
+   "id": "dvd-aia-ampy-ahy-jeso",
+   "name": "DVD - AIA Ampy ahy Jeso",
+   "category": "boky",
+   "language": "mg",
+   "price": 5000
+  },
+  {
+   "id": "polo-mrma",
+   "name": "POLO MRMA",
+   "category": "boky",
+   "language": "mg",
+   "price": 5000
+  },
+  {
+   "id": "fialofana-azo-antoka",
+   "name": "FIALOFANA AZO ANTOKA",
+   "category": "boky",
+   "language": "mg",
+   "price": 1000
+  },
+  {
+   "id": "tari-dalana-evanjelistra-re",
+   "name": "TARI-DALANA EVANJELISTRA RE",
+   "category": "boky",
+   "language": "mg",
+   "price": 1000
+  },
+  {
+   "id": "antso-avo-maika",
+   "name": "ANTSO AVO MAIKA",
+   "category": "boky",
+   "language": "mg",
+   "price": 1500
+  },
+  {
+   "id": "inona-no-hataoko-handovako-ny-fiainana-mandrakizay",
+   "name": "INONA NO HATAOKO HANDOVAKO NY FIAINANA MANDRAKIZAY?",
+   "category": "boky",
+   "language": "mg",
+   "price": 1400
+  },
+  {
+   "id": "fitantanana-ny-vola",
+   "name": "FITANTANANA NY VOLA",
+   "category": "boky",
+   "language": "mg",
+   "price": 1000
+  },
+  {
+   "id": "fianarana-baiboly-manova-fiainana",
+   "name": "FIANARANA BAIBOLY MANOVA FIAINANA",
+   "category": "boky",
+   "language": "mg",
+   "price": 1000
+  },
+  {
+   "id": "guide-ecole-biblique-de-vacances",
+   "name": "GUIDE ECOLE BIBLIQUE DE VACANCES",
+   "category": "boky",
+   "language": "mg",
+   "price": 1200
+  },
+  {
+   "id": "jesosy-fitiavana",
+   "name": "JESOSY FITIAVANA",
+   "category": "boky",
+   "language": "mg",
+   "price": 1000
+  },
+  {
+   "id": "vatsim-pitoriana",
+   "name": "VATSIM-PITORIANA",
+   "category": "boky",
+   "language": "mg",
+   "price": 1000
+  },
+  {
+   "id": "mitomboa-aminny-fahalalana",
+   "name": "MITOMBOA AMIN'NY FAHALALANA",
+   "category": "boky",
+   "language": "mg",
+   "price": 5000
+  },
+  {
+   "id": "maniry-fatratra-ny-paradisa",
+   "name": "MANIRY FATRATRA NY PARADISA",
+   "category": "boky",
+   "language": "mg",
+   "price": 3400
+  },
+  {
+   "id": "andro-farany-araka-ani-daniela",
+   "name": "ANDRO FARANY ARAKA AN'I DANIELA",
+   "category": "boky",
+   "language": "mg",
+   "price": 8000
+  },
+  {
+   "id": "taridalana-loholona",
+   "name": "TARIDALANA LOHOLONA",
+   "category": "boky",
+   "language": "mg",
+   "price": 8500
+  },
+  {
+   "id": "taridalana-minenf-ho-anny-pasitora-sy-loholona",
+   "name": "TARIDALANA MINENF ho an'ny PASITORA SY LOHOLONA",
+   "category": "boky",
+   "language": "mg",
+   "price": 3800
+  },
+  {
+   "id": "fiomanana-ho-aminny-ranonorana-farany",
+   "name": "FIOMANANA HO AMIN'NY RANONORANA FARANY",
+   "category": "boky",
+   "language": "mg",
+   "price": 2500
+  },
+  {
+   "id": "dingana-ho-aminny-tena-fifohazana-1",
+   "name": "DINGANA HO AMIN'NY TENA FIFOHAZANA 1",
+   "category": "boky",
+   "language": "mg",
+   "price": 8000
+  },
+  {
+   "id": "lehibetanora",
+   "name": "LEHIBE/TANORA",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 2700
+  },
+  {
+   "id": "ankizy",
+   "name": "ANKIZY",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 2700
+  },
+  {
+   "id": "sarintany",
+   "name": "SARINTANY",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 1900
+  },
+  {
+   "id": "rejistra-eds-mlg",
+   "name": "REJISITRA EDS MLG",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 1700
+  },
+  {
+   "id": "registre-eds-fr",
+   "name": "REGISTRE EDS FR",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 1700
+  },
+  {
+   "id": "fonon-desona-kopa-droa",
+   "name": "FONON-DESONA KOPA-DROA",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 4500
+  },
+  {
+   "id": "fonon-desona-kopa-telo",
+   "name": "FONON-DESONA KOPA-TELO",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 5500
+  },
+  {
+   "id": "toriteny-ho-anny-ankizy",
+   "name": "TORITENY HO AN'NY ANKIZY",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 2900
+  },
+  {
+   "id": "365-andro-tonga-lafatra-vol-1",
+   "name": "365 andro tonga lafatra (vol 1)",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 12000
+  },
+  {
+   "id": "365-andro-tonga-lafatra-vol-2",
+   "name": "365 andro tonga lafatra (vol 2)",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 12000
+  },
+  {
+   "id": "365-andro-tonga-lafatra-vol-3",
+   "name": "365 andro tonga lafatra (vol 3)",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 12000
+  },
+  {
+   "id": "service-chr-tien",
+   "name": "Service Chrétien",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 2000
+  },
+  {
+   "id": "my-fun-neighbourhood-tantara",
+   "name": "My fun neighbourhood (tantara)",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 1200
+  },
+  {
+   "id": "sabata-tsangambatonny-famoronana",
+   "name": "SABATA Tsangambaton'ny Famoronana",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 12000
+  },
+  {
+   "id": "fitoriana-filazantsara-ho-anny-ankizy",
+   "name": "Fitoriana Filazantsara ho an'ny ankizy",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 1000
+  },
+  {
+   "id": "livre-mifem",
+   "name": "Livre MIFEM",
+   "category": "tatitra-sary",
+   "language": "mg",
+   "price": 800
+  },
+  {
+   "id": "diabeta",
+   "name": "DIABETA",
+   "category": "zavatra-hafa",
+   "language": "mg",
+   "price": 700
+  },
+  {
+   "id": "tosidra",
+   "name": "TOSIDRA",
+   "category": "zavatra-hafa",
+   "language": "mg",
+   "price": 700
+  },
+  {
+   "id": "ecole-biblique-de-vacances-ebv-ankizy-6-10taona",
+   "name": "ECOLE BIBLIQUE DE VACANCES (EBV) ANKIZY (6-10taona)",
+   "category": "zavatra-hafa",
+   "language": "mg",
+   "price": 700
+  },
+  {
+   "id": "ebv-tanora-sy-mantoanto-11-14taona",
+   "name": "EBV TANORA SY MANTOANTO (11-14taona)",
+   "category": "zavatra-hafa",
+   "language": "mg",
+   "price": 600
+  },
+  {
+   "id": "zarao-ny-finoanao",
+   "name": "ZARAO NY FINOANAO",
+   "category": "zavatra-hafa",
+   "language": "mg",
+   "price": 700
+  },
+  {
+   "id": "tonom-bavaka",
+   "name": "TONOM-BAVAKA",
+   "category": "zavatra-hafa",
+   "language": "mg",
+   "price": 700
+  },
+  {
+   "id": "tononkiram-panahy",
+   "name": "TONONKIRAM-PANAHY",
+   "category": "zavatra-hafa",
+   "language": "mg",
+   "price": 700
+  },
+  {
+   "id": "carte-tonga-soa",
+   "name": "CARTE TONGA SOA",
+   "category": "zavatra-hafa",
+   "language": "mg",
+   "price": 500
+  },
+  {
+   "id": "carte-tsingerintaona",
+   "name": "CARTE TSINGERINTAONA",
+   "category": "zavatra-hafa",
+   "language": "mg",
+   "price": 500
+  },
+  {
+   "id": "carte-mirary-soa",
+   "name": "CARTE MIRARY SOA",
+   "category": "zavatra-hafa",
+   "language": "mg",
+   "price": 500
+  },
+  {
+   "id": "signet-tsingerintaona",
+   "name": "SIGNET TSINGERINTAONA",
+   "category": "zavatra-hafa",
+   "language": "mg",
+   "price": 300
+  },
+  {
+   "id": "signet-tonga-soa-signet-mirary-soa",
+   "name": "SIGNET TONGA SOA + SIGNET MIRARY SOA",
+   "category": "zavatra-hafa",
+   "language": "mg",
+   "price": 300
+  }
+ ]
+}
